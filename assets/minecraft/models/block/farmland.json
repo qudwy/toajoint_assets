@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:block/block",
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 15, 16],
+      "faces": {
+        "down": { "texture": "#down" },
+        "up": { "texture": "#up" },
+        "north": { "texture": "#north" },
+        "south": { "texture": "#south" },
+        "west": { "texture": "#west" },
+        "east": { "texture": "#east" }
+      }
+    }
+  ],
+  "textures": {
+    "down": "minecraft:block/dirt",
+    "up": "minecraft:block/farmland_01",
+    "north": "minecraft:block/farmland_side_01",
+    "south": "minecraft:block/farmland_side_01",
+    "west": "minecraft:block/farmland_side_alt_01",
+    "east": "minecraft:block/farmland_side_alt_01",
+    "particle": "minecraft:block/dirt"
+  }
+}

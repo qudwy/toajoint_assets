@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "description": {"text": "fixes, improvements and proper server operation", "color": "gray"},
+		"min_format": 1,
+		"max_format": 32768,
+		"pack_format": 84,
+		"supported_formats": [1, 32768]
+    }
+}
