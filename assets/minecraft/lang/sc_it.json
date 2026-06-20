@@ -22,5 +22,8 @@
   "resourcepack.progress": "",
   "resourcepack.requesting": "",
   "resourcePack.runtime_failure": "",
-  "resourcePack.server.name": "toajoint_assets"
+  "resourcePack.server.name": "toajoint_assets",
+  "block.minecraft.set_spawn": "",
+  "gui.waitingForResponse.button.inactive": "отмена",
+  "gui.waitingForResponse.title": "ожидание сервера..."
 }
