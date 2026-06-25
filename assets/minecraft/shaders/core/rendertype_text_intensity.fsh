@@ -21,7 +21,7 @@ void main() {
     if (color.r > 0.2479 && color.r < 0.2481
         && color.g > 0.2479 && color.g < 0.2481
         && color.b > 0.2479 && color.b < 0.2481) {
-        color = vec4(0.502, 0.502, 0.502, 1.0);
+        color = vec4(1.0, 1.0, 1.0, 1.0);
     }
     fragColor = apply_fog(color, sphericalVertexDistance, cylindricalVertexDistance, FogEnvironmentalStart, FogEnvironmentalEnd, FogRenderDistanceStart, FogRenderDistanceEnd, FogColor);
 }
