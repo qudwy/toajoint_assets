@@ -1,3 +1,0 @@
-﻿# toajoint_assets
----
-later
