@@ -2,7 +2,7 @@
 
 #moj_import <minecraft:dynamictransforms.glsl>
 #moj_import <minecraft:projection.glsl>
-#moj_import <vanilla_tweaks:twinkling_stars/stars.vsh>
+#moj_import <minecraft:twinkling_stars/stars.vsh>
 
 in vec3 Position;
 

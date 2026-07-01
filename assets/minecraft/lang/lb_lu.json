@@ -1,4 +1,6 @@
 ﻿{
+  "item.toajoint.invisible_item_frame": "Невидимая рамка",
+  "item.toajoint.invisible_glow_item_frame": "Светящаяся невидимая рамка",
   "multiplayer.unsecureserver.toast.title": "",
   "multiplayer.unsecureserver.toast": "",
   "chat.tag.not_secure": "",
@@ -16,9 +18,7 @@
   "download.pack.title": "",
   "resourcePack.broken_assets": "",
   "resourcepack.downloading": "",
-  "resourcePack.high_contrast.name": "",
   "resourcePack.load_fail": "",
-  "resourcePack.programmer_art.name": "",
   "resourcepack.progress": "",
   "resourcepack.requesting": "",
   "resourcePack.runtime_failure": "",
@@ -56,5 +56,15 @@
   "gui.socialInteractions.tooltip.report.disabled": "",
   "gui.socialInteractions.tooltip.report.no_messages": "",
   "gui.socialInteractions.tooltip.report.not_reportable": "",
-  "gui.socialInteractions.tooltip.show": ""
+  "gui.socialInteractions.tooltip.show": "",
+  "chunk.toast.checkLog": "",
+  "chunk.toast.loadFailure": "",
+  "chunk.toast.lowDiskSpace": "",
+  "chunk.toast.lowDiskSpace.description": "",
+  "chunk.toast.saveFailure": "",
+  "advancements.toast.challenge": "to be appointed",
+  "advancements.toast.goal": "to be appointed",
+  "advancements.toast.task": "to be appointed",
+  "narrator.toast.disabled": "",
+  "narrator.toast.enabled": ""
 }
