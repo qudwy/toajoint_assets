@@ -27,21 +27,21 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eatinganimation:dried_kelp_eating_2"
+              "model": "minecraft:dried_kelp_eating_2"
             },
             "threshold": 0.15
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eatinganimation:dried_kelp_eating_1"
+              "model": "minecraft:dried_kelp_eating_1"
             },
             "threshold": 0.25
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eatinganimation:dried_kelp_eating_0"
+              "model": "minecraft:dried_kelp_eating_0"
             },
             "threshold": 0.45
           },
@@ -55,7 +55,7 @@
         ],
         "fallback": {
           "type": "minecraft:model",
-          "model": "eatinganimation:dried_kelp_eating_2"
+          "model": "minecraft:dried_kelp_eating_2"
         }
       }
     }

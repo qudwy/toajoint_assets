@@ -27,21 +27,21 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eatinganimation:honey_bottle_drinking_2"
+              "model": "minecraft:honey_bottle_drinking_2"
             },
             "threshold": 0.35
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eatinganimation:honey_bottle_drinking_1"
+              "model": "minecraft:honey_bottle_drinking_1"
             },
             "threshold": 0.42
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "eatinganimation:honey_bottle_drinking_0"
+              "model": "minecraft:honey_bottle_drinking_0"
             },
             "threshold": 0.65
           },
@@ -55,7 +55,7 @@
         ],
         "fallback": {
           "type": "minecraft:model",
-          "model": "eatinganimation:honey_bottle_drinking_2"
+          "model": "minecraft:honey_bottle_drinking_2"
         }
       }
     }

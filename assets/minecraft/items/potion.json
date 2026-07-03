@@ -17,7 +17,7 @@
         {
           "model": {
             "type": "minecraft:model",
-            "model": "eatinganimation:potion_drinking_0",
+            "model": "minecraft:potion_drinking_0",
             "tints": [
               {
                 "type": "minecraft:potion",
@@ -30,7 +30,7 @@
         {
           "model": {
             "type": "minecraft:model",
-            "model": "eatinganimation:potion_drinking_1",
+            "model": "minecraft:potion_drinking_1",
             "tints": [
               {
                 "type": "minecraft:potion",
@@ -43,7 +43,7 @@
         {
           "model": {
             "type": "minecraft:model",
-            "model": "eatinganimation:potion_drinking_2",
+            "model": "minecraft:potion_drinking_2",
             "tints": [
               {
                 "type": "minecraft:potion",
